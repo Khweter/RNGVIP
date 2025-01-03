@@ -176,7 +176,7 @@ html {
 
 body {
   background-color: var(--bg-dark-purple);
-  background-image: url("../images/body-bg.jpg");
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/markets-system.appspot.com/o/khweterImages%2Fbody-bg.jpg?alt=media&token=68c4caf4-ee5d-4fa2-aaad-68b1fb369ec6");
   background-repeat: repeat;
   color: var(--text-gainsboro);
   font-family: 'El Messiri', sans-serif;
